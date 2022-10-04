@@ -1,2 +1,2 @@
 # profile
-profile as a part of le wagon.
+Made a fun little profile as a part of le wagon.
